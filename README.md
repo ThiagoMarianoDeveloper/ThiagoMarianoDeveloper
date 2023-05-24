@@ -20,8 +20,6 @@
 
 
 
-
-
 <!---
 
 - 👋 Hi, I’m @ThiagoMarianoDeveloper
