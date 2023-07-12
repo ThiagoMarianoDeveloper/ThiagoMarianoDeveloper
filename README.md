@@ -7,8 +7,6 @@
 
 - 📫 Como chegar até mim Você me acha através do e-mail **thiagomarianotvdigital321@gmail.com**
 
-- ⚡ Fato engraçado **sou um pouco perfeccionista**
-
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
 <a href="https://www.facebook.com/profile.php?id=100038213443097" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id= 100038213443097" height="30" width="40" /></a>
