@@ -3,7 +3,7 @@
 
 - 💻 No momento estou fazendo o **Curso Superior de Tecnologia em Sistemas para Internet**
 
-- 💬 Me Pergunte sobre **Marketing Digital, HTML, CSS, JavaScript**
+- 💬 Me pergunte sobre **Marketing Digital, HTML, CSS, JavaScript**
 
 - 📫 Como chegar até mim você me acha através do e-mail **thiagomarianotvdigital321@gmail.com**
 
