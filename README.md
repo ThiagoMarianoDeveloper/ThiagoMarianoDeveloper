@@ -1,7 +1,7 @@
 <h1 align="center">Olá, Seja bem vindo(a)!</h1>
 <h2 align="center">Eu sou Thiago Mariano!</h2>
 
-- 🌱 No momento estou fazendo o **Curso Superior de Tecnologia em Sistemas para Internet**
+- 💻 No momento estou fazendo o **Curso Superior de Tecnologia em Sistemas para Internet**
 
 - 💬 Me Pergunte sobre **Marketing Digital, HTML, CSS, JavaScript**
 
